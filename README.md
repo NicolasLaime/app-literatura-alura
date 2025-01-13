@@ -34,7 +34,7 @@ Para ejecutar este proyecto necesitas tener instalado lo siguiente:
 
 - **Java 17 o superior**
 - **Maven 3.8.1 o superior**
-- **PostgresSQL u otro motor de base de datos compatible**
+- **PostgreSQL u otro motor de base de datos compatible**
 - **IDE** como IntelliJ IDEA o Eclipse (opcional)
 
 ---
